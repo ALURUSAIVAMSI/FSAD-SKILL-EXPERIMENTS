@@ -1,0 +1,3 @@
+This is a Git practice file.
+This line was added in feature-update branch.
+Learning Git branching.
